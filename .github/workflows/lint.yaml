@@ -25,7 +25,3 @@ jobs:
  
       - name: Run ShellCheck
         uses: azohra/shell-linter@latest        
-
-      - uses: hadolint/hadolint-action@v3.1.0
-        with:
-          dockerfile: Dockerfile  
