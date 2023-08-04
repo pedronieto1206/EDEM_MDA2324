@@ -50,9 +50,7 @@ for element in elements:
             quiniela.append(
                 parse_match(partido.text.replace(" ", "").replace("\n", "")))
         quiniela = calculate_quiniela(quiniela)
-        print(f'{"string":<20} {"string":<20} {"string":<10}'.format(
-            'LOCAL', 'VISITANTE', 'RESULTADO'))
+        print(f'{"LOCAL":<20} {"VISITANTE":<20} {"RESULTADO":<10}')
         for element in quiniela:
             local, visitante, resultado = element.values()
-            print(f'{"string":<20} {"string":<20} {"string":<10}'.format(
-                local, visitante, resultado))
+            print(f'{local:<20} {visitante:<20} {resultado:<10}')
