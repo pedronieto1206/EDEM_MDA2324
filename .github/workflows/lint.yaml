@@ -1,0 +1,31 @@
+---
+name: "Linting Process"
+
+on:
+  push:
+    branches:
+      - "*"  
+  pull_request:
+    branches:
+      - "*"
+
+jobs:
+  yaml:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Git repository
+        uses: actions/checkout@v3
+        with:
+          lfs: true
+
+      - name: flake8 Lint
+        uses: py-actions/flake8@v2
+ 
+      - name: Run ShellCheck
+        uses: azohra/shell-linter@latest        
+
+      - uses: hadolint/hadolint-action@v3.1.0
+        with:
+          dockerfile: Dockerfile  
