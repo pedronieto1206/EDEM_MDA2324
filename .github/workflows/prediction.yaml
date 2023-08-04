@@ -19,4 +19,5 @@ jobs:
           lfs: true
       - name: Run Predictions
         run: |
+          pip3 install -r PetProject/requirements.txt
           python3 PetProject/quinielas.py
