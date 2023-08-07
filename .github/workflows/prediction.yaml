@@ -1,4 +1,4 @@
-name: "Linting Process"
+name: "Prediction"
 
 on:  # yamllint disable-line rule:truthy
   schedule:
