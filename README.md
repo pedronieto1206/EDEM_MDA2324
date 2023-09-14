@@ -31,3 +31,23 @@ Para crear un Pull Request, deberéis hacer click en el botón Pull Request que 
 
 Para realizar la entrega de los trabajos y proyectos, deberéis crear una pull request en estado de Draft hasta que esté disponible para ser entregada. Una vez esté lista para ser entregada, deberéis cambiar el estado de la pull request a Ready for review. El profesor revisará vuestros trabajos y os indicará si es necesario realizar alguna corrección mediante conversaciones que tendréis que resolver para ser aceptada.
 
+## Indice de Contenidos del Máster
+
+Este máster está divido en tres grandes módulos, que permitirán al alumno adquirir los conocimientos en el ecosistema de Datos de una manera incremental desde lo más básico a lo menos básico ;-).
+
+### Modulo 0 - Introducción 
+El objetivo de este módulo es que el alumno adquiera los conocimientos básicos que permitan una nivelación inicial entre los diferentes conocimientos previos de los alumnos. Durante este módulo se realizarán ejercicios prácticos que permitirán al alumno adquirir los conocimientos básicos de programación en Python, así como los conocimientos básicos de linux y de git.
+
+- Python
+
+- Linux
+
+- Git
+
+- Containers (Docker)
+
+- Notebooks
+
+### Modulo 1 - Tratamiento del Dato
+### Modulo 2 - Inteligencia Artificial
+
