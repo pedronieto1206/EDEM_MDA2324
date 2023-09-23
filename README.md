@@ -36,7 +36,9 @@ Para realizar la entrega de los trabajos y proyectos, deberéis crear una pull r
 Este máster está divido en tres grandes módulos, que permitirán al alumno adquirir los conocimientos en el ecosistema de Datos de una manera incremental desde lo más básico a lo menos básico ;-).
 
 ### Modulo 0 - Introducción 
-El objetivo de este módulo es que el alumno adquiera los conocimientos básicos que permitan una nivelación inicial entre los diferentes conocimientos previos de los alumnos. Durante este módulo se realizarán ejercicios prácticos que permitirán al alumno adquirir los conocimientos básicos de programación en Python, así como los conocimientos básicos de linux y de git.
+Durante este bloque, los alumnos se centrarán en adquirir conocimientos básicos sobre datos, programación y despliegue de la tecnología necesaria para poder ejecutar el trabajo futuro. Descubrirán los controles de Linux, notebooks, aprenderán a trabajar en el lenguaje de programación Python junto con servicios de contenedores como Docker.
+
+En resumen, este bloque les proporcionará una base sólida que les permitirá avanzar con naturalidad en su aprendizaje.
 
 - Python
 
@@ -49,5 +51,27 @@ El objetivo de este módulo es que el alumno adquiera los conocimientos básicos
 - Notebooks
 
 ### Modulo 1 - Tratamiento del Dato
-### Modulo 2 - Inteligencia Artificial
+Durante este bloque, los alumnos se sumergirán en el perfil del Data Engineer: el profesional enfocado en el diseño, desarrollo y mantenimiento de los sistemas de procesamiento de datos dentro de un proyecto big data. Su función es dejar disponible el conjunto de datos validos con el que es necesario obtener, depurar y preparar los datos para su explotación.
+
+Para ello, descubrirán el origen de los datos y su tipología, el manejo de grandes volúmenes de datos con SQL y NoSQL, creación de dashborads con su posterior creación en Tableau, el uso de tecnologías como Flask API’s, Kafka, Spark Streaming, Cloud, IAC Terraform y Localización, además de comprender el fujo de datos, su calidad y el gobierno de datos.
+
+En resumen, este bloque les dará una base sólida para ocupar puestos de Data Engineer que se asegure de definir e implementar un flujo de datos desde su origen hasta su exploración de una forma controlada y automatizada.
+
+- SQL
+- NoSQL
+- Tableau
+- Flask API’s
+- Kafka
+- Spark Streaming
+- Cloud
+- IAC Terraform
+
+
+### Modulo 2 - Análisis y aprendizaje automático
+
+Durante este bloque, los alumnos se sumergirán en el perfil del Data Scientist: el profesional enfocado a entrenar modelos que extraen conocimiento sobre el problema a tratar a partir de los datos usando herramientas matemáticas y conocimientos del dominio de negocio.
+
+Para ello, repasarán conocimientos de estadística y matemáticas dentro del entorno de programación con Python, usarán los diferentes métodos de clasificación, regresión, clustering y dimensionalidad dentro del machine learning y diferentes tipologías de redes neuronales como conectadas y convolucionales. Además, entenderán el estado del arte actual y su despliegue.
+
+En resumen, este bloque les dará una base sólida para ocupar puestos de Data Scientist que se asegure de encontrar patrones y tendencias en los conjuntos de datos, crear algoritmos y modelos para predecir resultados y utilizar las técnicas de aprendizaje para mejorar la calidad de los datos.
 
