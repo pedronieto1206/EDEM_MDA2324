@@ -2,7 +2,7 @@
 
 En la primera sesión del master se instalan todas las herramientas que usaremos a lo largo del curso. En este documento se recogen los pasos que se han seguido para instalarlas en caso de que alguien necesite repetir el proceso o no haya podido asistir a la sesión.
 
-## Pre-requisitos
+## Pre-requisitos
 
 ### Windows
 Antes de realizar estas instalaciones, debemos asegurarnos de tener privilegios de administrador y espacio suficiente en el disco duro.
@@ -49,9 +49,8 @@ Una vez instalado Visual studio code, instalaremos los siguientes plugins:
 - Markdowwn
 - Git
 
+## Git
 
-
-## Git
 ### Windows
 Para instalar Git en Windows, accederemos a la web de descargas de Git y descargaremos el instalador correspondiente:
 
@@ -160,7 +159,7 @@ Una vez generadas las claves, accederemos a la carpeta donde se han generado y c
 
 ## Docker
 
-### Mac
+### Mac
 
 Para instalar Docker en Mac, visitaremos la web de descargas de Docker y descargaremos el instalador correspondiente, teniendo en cuenta si nuestro sistema operativo es Intel o M1. Una vez descargado lo abriremos y validaremos que funciona con el siguiente comando. También deberemos registrarnos para su uso.
 
