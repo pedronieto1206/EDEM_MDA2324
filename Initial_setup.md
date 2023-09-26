@@ -2,6 +2,18 @@
 
 En la primera sesión del master se instalan todas las herramientas que usaremos a lo largo del curso. En este documento se recogen los pasos que se han seguido para instalarlas en caso de que alguien necesite repetir el proceso o no haya podido asistir a la sesión.
 
+Durante este tutorial, instalaremos las siguientes herramientas:
+
+- Visual Studio Code y sus plugins
+- Git
+- GitHub Desktop
+- Python
+- SSH Keys
+- Docker
+
+Adicionalmente para mac instalaremos Homebrew, un gestor de paquetes que nos permitirá instalar software de forma sencilla.
+
+
 ## Pre-requisitos
 
 ### Windows
@@ -43,11 +55,14 @@ code
 ```
 
 ## Visual Studio Plugins
-Una vez instalado Visual studio code, instalaremos los siguientes plugins:
+Una vez instalado Visual studio code, accederemos a la pestaña de plugins en el menu lateral izquierdo y buscaremos la opción de plugins representada con unas cajas. Una vez dentro, buscaremos los siguientes plugins y los instalaremos:
+
 - Python
 - Docker
 - Markdowwn
 - Git
+
+Para instalar un plugin solo debéis buscar el texto en el buscador y pulsar el botón de instalar. Una vez instalado, deberéis reiniciar Visual Studio Code para que los cambios surtan efecto.
 
 ## Git
 
@@ -105,6 +120,8 @@ python3 --version
 ```
 
 ## SSH Keys
+
+Las claves SSH nos permitirán acceder a los servicios de forma segura sin necesidad de introducir contraseñas. Para ello, generaremos un par de claves pública y privada que nos permitirán acceder a los servicios de forma segura. Estas claves permiten, no usar contraseñas, pero si se pierden o se comparten, cualquiera podría acceder a los servicios que tengamos configurados con ellas. Por ello, es importante guardarlas en un lugar seguro y no compartirlas con nadie.
 
 ### Mac 
 
