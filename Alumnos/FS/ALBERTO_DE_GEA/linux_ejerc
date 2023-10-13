@@ -2,30 +2,38 @@ Ejercicio de comandos en la consola de linux.
 
   1.Listar todos los archivos del directorio bin.
     
-  ls /ruta/al/directorio/bin
+  cd /bin
+  ls
 
   
   2.Listar todos los archivos del directorio tmp.
    
-  ls /ruta/al/directorio/tmp
+  cd /tmp
+  ls
    
     
   3.Listar todos los archivos del directorio etc que empiecen por t 
     
-    ls /etc/t*
+  cd /etc
+  ls t*
   
   4.Listar todos los archivos del directorio dev que empiecen por tty.
     
-    ls /dev tty*
+  cd /dev 
+  ls tty*
     
   5.Listar todos los archivos del directorio dev que empiecen por tty y acaben en 3.
     
-  ls /dev/tty*3
+  pwd 
+  cd /dev
+  ls tty*3
 
     
   6.Listar todos los archivos del directorio dev que empiecen por t y acaben en C1.
     
-  ls /dev/t*C1
+  pwd 
+  cd /dev
+  ls t*C1
 
 
   7.Listar todos los archivos, incluidos los ocultos, del directorio raíz.
@@ -40,7 +48,7 @@ Ejercicio de comandos en la consola de linux.
 
   9.Listar todos los archivos del directorio usr y sus subdirectorios.
     
-  find /usr -type f
+  find /usr 
   
 
   10.Cambiarse al directorio tmp, crear directorio PRUEBA.
