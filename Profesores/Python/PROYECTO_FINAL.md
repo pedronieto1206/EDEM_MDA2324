@@ -3,7 +3,7 @@
 
 Una empresa de formación quiere gestionar su cartera de alumnos. 
 
-Escribe un programa que guarde los alumnos en un diccionario u objeto literal en el que disponga de los siguientes campos:
+Escribe un programa que guarde una lista de alumnos. Cada Alumno dispone de los siguientes campos:
 
 - NIF (string)
 - Nombre (string)
