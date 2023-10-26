@@ -13,4 +13,4 @@ I use these tools for data analysis and to create impactful visualizations.
 
 - **Email**: humaro@edem.es
 
-Feel free to reach out if you have any questions or if you'd like to collaborate on data analysis projects. I look forward to connecting and learning together on this exciting data journey!
+Feel free to reach out if you have any questions or if you'd like to collaborate on data analysis projects. I look forward to connecting and learning together on this exciting data journey!!
