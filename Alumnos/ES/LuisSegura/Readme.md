@@ -6,4 +6,4 @@
 ## 🌱 Estoy aprendiendo a programar mi perfil de GitHub
 ## 💻 También estoy aprendiendo *Python*
 ## 🙏 Espero que me ayudéis porque me va a hacer falta...
-## 📫 Mi e-mail es **luseca@edem.es**
+## 📫 Mi e-mail es **luseca@edem.es**.
